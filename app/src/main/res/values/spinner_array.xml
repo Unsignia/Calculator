@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="spinner_array">
+        <item>Select</item>
+        <item>+</item>
+        <item>-</item>
+        <item>/</item>
+        <item>*</item>
+        <item>!</item>
+        <item>^</item>
+        <item>√</item>
+        <item>|</item>
+        <item>e</item>
+        <item>π</item>
+        <item>°C</item>
+        <item>°F</item>
+    </string-array>
+</resources>
